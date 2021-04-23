@@ -1,0 +1,44 @@
+body
+{
+	 font-family: "Avenir Next";
+}
+
+.header-logo{
+	align-content: center;
+	padding:20px 15px;
+ background-color:aqua;
+	}
+
+	.login {
+
+	font-size: 15px;
+	color:white;
+	background-color: #228B22;
+	width: 40px;
+	height: 20px;
+	display: block;
+	margin-top:20px;
+}
+.login:hover
+{
+   opacity: 0.7;
+}
+.entity{
+	font-size: 15px;
+	margin:20px 20px;
+}
+.border{
+	border:2px;
+	background-color:grey;
+	font-size:20px;
+
+}
+.footer{
+	background-color:aqua;
+	height:50px;
+	
+}
+.distance{
+	padding-top:15px;
+
+}
